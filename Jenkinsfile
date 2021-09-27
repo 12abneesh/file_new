@@ -1,3 +1,4 @@
+#!/bin/groovy
 pipeline {
   tools {
     nodejs 'default-nodejs'
